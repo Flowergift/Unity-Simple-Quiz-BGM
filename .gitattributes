@@ -1,0 +1,16 @@
+Packages filter=lfs diff=lfs merge=lfs -text
+Quiz[[:space:]]Game.userprefs filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp-Editor.csproj filter=lfs diff=lfs merge=lfs -text
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Temp filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
+Quiz[[:space:]]Game.Editor.csproj filter=lfs diff=lfs merge=lfs -text
+UserSettings filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
+Quiz[[:space:]]Game.csproj filter=lfs diff=lfs merge=lfs -text
+Quiz[[:space:]]Game.sln filter=lfs diff=lfs merge=lfs -text
+UnityPackageManager filter=lfs diff=lfs merge=lfs -text
+UpgradeLog.htm filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
